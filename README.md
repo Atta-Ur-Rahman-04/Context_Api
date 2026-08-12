@@ -2,6 +2,7 @@
 
 A simple React + Vite project that implements a light/dark theme switcher using React Context and Tailwind CSS v4's class-based dark mode.
 
+
 ## Features
 
 - **Light / Dark Theme Toggle** — switch themes instantly with a single click
